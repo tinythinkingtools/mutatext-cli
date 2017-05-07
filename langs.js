@@ -14,7 +14,7 @@ const supportedLangs = [
   { name: 'Catalan', code: 'ca'},
   { name: 'Cebuano', code: 'ceb'},
   { name: 'Chichewa', code: 'ny'},
-  { name: 'Chines', code: 'zh-CN'},
+  { name: 'Chinese', code: 'zh-CN'},
   { name: 'Corsican', code: 'co'},
   { name: 'Croatian', code: 'hr'},
   { name: 'Czech', code: 'cs'},
