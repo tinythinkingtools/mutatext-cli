@@ -2,6 +2,8 @@
 
 _found in translation_
 
+![Mutatext](pics/mutatext.png)
+
 CLI-based Proof of concept for a creative tool that works via translating back and forth.
 
 ### Why:

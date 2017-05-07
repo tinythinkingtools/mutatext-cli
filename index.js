@@ -31,7 +31,7 @@ const init = () => {
     },
     {
       type: 'confirm',
-      name: 'showINterimSteps',
+      name: 'showInterimSteps',
       message: 'Show interim steps?',
       default: false
     },
