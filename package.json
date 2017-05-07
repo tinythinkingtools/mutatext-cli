@@ -1,0 +1,22 @@
+{
+  "name": "mutatext-cli",
+  "version": "1.0.0",
+  "description": "Mutatext. Found in translation.",
+  "main": "index.js",
+  "author": "George Strakhov",
+  "license": "ISC",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/tinythinkingtools/mutatext-cli.git"
+  },
+  "scripts" : {
+    "go": "node index.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "google-translate-api": "git+https://github.com/arthurlacoste/google-translate-api.git",
+    "inquirer": "^3.0.6",
+    "lodash": "^4.17.4",
+    "q": "^1.5.0"
+  }
+}
